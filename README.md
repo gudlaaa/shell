@@ -1,9 +1,9 @@
 # shell
 
-This file is only for clone the repo by addind the below command in project folder.
+This file is only for cloninng the repo by adding the below command in your project folder.
 
 `bash install.sh`
 
-File content description below.
+you can change the repo by chnaging the below params in `install.sh` file.
 
 `git clone <repo> <folder_name>`
